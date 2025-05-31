@@ -1,25 +1,6 @@
 <img src="anonymous_typing.gif" alt="👋 Hi there! I'm Anonymous" title="👋 Hi there! I'm Anonymous" style="height:100% width:100%; border-radius:20px; border: 5px solid #6eb6fa"/>
 <div align="justify">
-<div style="display:flex;justify-content:space-between;padding: 0 50px;">
-  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
-  <div style="height:30px; width: 80px; background:rgb(151, 89, 231);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(110, 70, 163) 2px solid;">Discord</div>
-  </a>
-  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
-  <div style="height:30px; width: 80px; background:rgb(60, 62, 65);color:rgb(255, 255, 2255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(86, 92, 97) 2px solid;">Twitter</div>
-  </a>
-  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
-  <div style="height:30px; width: 80px; background:rgb(243, 55, 55);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(182, 26, 26) 2px solid;">Youtube</div>
-  </a>
-  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
-  <div style="height:30px; width: 80px; background:rgb(53, 143, 228);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(32, 102, 168) 2px solid;">LinkedIn</div>
-  </a>
-  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
-  <div style="height:30px; width: 80px; background:rgb(245, 76, 46);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(177, 41, 17) 2px solid;">Reddit</div>
-  </a>
-  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
-  <div style="height:30px; width: 80px; background:rgb(113, 135, 155);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(67, 81, 95) 2px solid;">Codepen</div>
-  </a>
-</div>
+
 <p></p>
 <p align="justify">
 Welcome to my GitHub Page. I am Anonymous and now Science student, I learn new things about programming and Hacking , I had learned almost 8 languages and I have been learning Ethical hacking and participate bug bounty programms since 6 months and working with many projects and technologies. Also, I have a Discord Server called <a href="https://www.instagram.com/barnamenevisiinsta">Firestuff [Official]</a> that shares everything about programming and Hacking.
@@ -227,4 +208,27 @@ Welcome to my GitHub Page. I am Anonymous and now Science student, I learn new t
 ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anonymous-25&row=1&margin-w=40)]()
+
+
+
+<div style="display:flex;justify-content:space-between;padding: 0 50px;">
+  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
+  <div style="height:30px; width: 80px; background:rgb(151, 89, 231);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(110, 70, 163) 2px solid;">Discord</div>
+  </a>
+  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
+  <div style="height:30px; width: 80px; background:rgb(60, 62, 65);color:rgb(255, 255, 2255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(86, 92, 97) 2px solid;">Twitter</div>
+  </a>
+  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
+  <div style="height:30px; width: 80px; background:rgb(243, 55, 55);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(182, 26, 26) 2px solid;">Youtube</div>
+  </a>
+  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
+  <div style="height:30px; width: 80px; background:rgb(53, 143, 228);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(32, 102, 168) 2px solid;">LinkedIn</div>
+  </a>
+  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
+  <div style="height:30px; width: 80px; background:rgb(245, 76, 46);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(177, 41, 17) 2px solid;">Reddit</div>
+  </a>
+  <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
+  <div style="height:30px; width: 80px; background:rgb(113, 135, 155);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(67, 81, 95) 2px solid;">Codepen</div>
+  </a>
+</div>
 
