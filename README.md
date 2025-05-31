@@ -210,7 +210,7 @@ Welcome to my GitHub Page. I am Anonymous and now Science student, I learn new t
 [![trophy](https://github-profile-trophy.vercel.app/?username=anonymous-25&row=1&margin-w=40)]()
 
 
-
+< --
 <div style="display:flex;justify-content:space-between;padding: 0 50px;">
   <a href="https://www.instagram.com/rzashakeri/" style="text-decoration:none;">
   <div style="height:30px; width: 80px; background:rgb(151, 89, 231);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(110, 70, 163) 2px solid;">Discord</div>
@@ -231,4 +231,4 @@ Welcome to my GitHub Page. I am Anonymous and now Science student, I learn new t
   <div style="height:30px; width: 80px; background:rgb(113, 135, 155);color:rgb(255, 255, 255);justify-content: center;align-items: center;display: flex;border-radius: 5px;border:rgb(67, 81, 95) 2px solid;">Codepen</div>
   </a>
 </div>
-
+-- >
