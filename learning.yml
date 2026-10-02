@@ -1,0 +1,62 @@
+profile:
+  name: Dhruv Meghwal
+
+  title: Developer · Cybersecurity Learner · Systems Explorer
+
+  description: >
+    Building practical software and learning to make it more secure.
+
+focus:
+  - Web Application Security
+  - Backend Development
+  - APIs
+  - Linux & Systems
+  - Automation
+
+currently_learning:
+  - Python
+  - Django
+  - Web Application Security
+  - Burp Suite
+  - Linux
+
+security:
+  tools:
+    - Burp Suite
+    - Nmap
+    - Wireshark
+    - Metasploit
+
+  platforms:
+    - Hack The Box
+    - PortSwigger Academy
+    - TryHackMe
+
+development:
+  languages:
+    - Python
+    - JavaScript
+    - C++
+    - C#
+
+  frameworks:
+    - Django
+    - Streamlit
+    - .NET
+
+  databases:
+    - PostgreSQL
+    - Redis
+
+projects:
+  - name: Django Portfolio
+    description: Django-based personal portfolio and technical blog
+    status: Active
+
+  - name: Dracula GRC
+    description: Dracula-inspired terminal output theming
+    status: Development
+
+  - name: Dracula Metasploit
+    description: Dracula customization for Metasploit
+    status: Development
