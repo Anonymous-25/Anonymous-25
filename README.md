@@ -36,7 +36,7 @@
 **<span style="color:#50FA7B">IDE</span> :** JetBrains, VSCode, Codex<br>
 <br>
 
-**<span style="color:#50FA7B">Languages.general</span> :** Hindi, English, Sanskrit<br>
+**<span style="color:green">Languages.general</span> :** Hindi, English, Sanskrit<br>
 **<span style="color:#50FA7B">Languages.backend</span> :** Python, C, C++, JS, Rust, Go, Java(30%)<br>
 **<span style="color:#50FA7B">Languages.frontend</span> :** HTML, CSS, JS, Streamlit, tkinter, dart, Qt, Latex<br>
 **<span style="color:#50FA7B">Python.framework</span> :** Django, Flask, Streamlit, PyQt, Tkinter<br>
